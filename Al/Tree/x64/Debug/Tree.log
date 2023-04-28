@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Fomenko\source\repos\Al\Tree\Source.cpp(164,19): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Fomenko\source\repos\Al\Tree\Source.cpp(231,22): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Fomenko\source\repos\Al\Tree\Source.cpp(251,21): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Fomenko\source\repos\Al\Tree\Source.cpp(256,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Fomenko\source\repos\Al\Tree\Source.cpp(145): warning C4715: Tree::SearchNameTree: значение возвращается не при всех путях выполнения
+  Tree.vcxproj -> C:\Users\Fomenko\source\repos\Al\x64\Debug\Tree.exe

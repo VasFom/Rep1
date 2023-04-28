@@ -1,0 +1,5 @@
+﻿  Source7.cpp
+C:\Users\Fomenko\source\repos\Al\Var2(7)\6.h(60,11): warning C4101: temp: неиспользованная локальная переменная
+C:\Users\Fomenko\source\repos\Al\Var2(7)\Source7.cpp(6,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Fomenko\source\repos\Al\Var2(7)\Source7.cpp(73,15): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  Var2(7).vcxproj -> C:\Users\Fomenko\source\repos\Al\x64\Debug\Var2(7).exe

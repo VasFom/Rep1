@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Fomenko\source\repos\Al\Al\Source.cpp(23,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Fomenko\source\repos\Al\Al\Source.cpp(34,15): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  Al.vcxproj -> C:\Users\Fomenko\source\repos\Al\x64\Debug\Al.exe

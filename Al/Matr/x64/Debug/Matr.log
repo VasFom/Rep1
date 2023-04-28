@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Fomenko\source\repos\Al\Matr\Source.cpp(48,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Matr.vcxproj -> C:\Users\Fomenko\source\repos\Al\x64\Debug\Matr.exe

@@ -1,0 +1,4 @@
+﻿  Source8.cpp
+C:\Users\Fomenko\source\repos\Al\мфк2(8)\Source8.cpp(6,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Fomenko\source\repos\Al\мфк2(8)\Source8.cpp(111,15): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  мфк2(8).vcxproj -> C:\Users\Fomenko\source\repos\Al\x64\Debug\мфк2(8).exe
